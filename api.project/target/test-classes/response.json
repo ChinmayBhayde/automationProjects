@@ -1,0 +1,11 @@
+{
+    "code": 200,
+    "type": "unknown", "message": "94084760"
+    }  
+{
+
+    "id": 94084760,
+    "username": "staginguser", "firstName": "Tom",
+    "lastName": "David",
+    "email": "tom.david@gmail.com", "password": "Test@1234", "phone": "9876549610", "userStatus": 0
+}
